@@ -2,6 +2,6 @@
 
 Bu depoda java kodu bulacaksiniz
 
-### ` java `
+### ` java kodu`
 
 
